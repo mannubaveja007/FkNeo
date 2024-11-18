@@ -39,7 +39,8 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 
 <a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.2.3/FkNeo-v1.2.3.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
-[![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download&logoSource=feather)]()
+[![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)]()
+
 
 ## ℹ️ How to install and use?
 1. Firstly download and extract the extention zip from latest release (or the above button)
@@ -53,7 +54,7 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> For access key, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@x0.rahil](https://instagram.com/x0.rahil) on instagram.
+> For access key, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@infrared.x](https://instagram.com/infrared.x) on instagram.
 > If you got to know about this from someone on whatsapp, you can ask him/her too.
 
 >[!NOTE]
