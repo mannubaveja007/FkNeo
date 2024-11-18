@@ -18,7 +18,7 @@
 > [!CAUTION]
 > This project is intended for educational purposes only. The author does not condone or support any form of cheating in exams and is not responsible for any misuse. This is purely a hobby project meant for experimentation and learning.
 
-> Stay updated and get support by following the developer on [Instagram](https://instagram.com/x0.rahil).
+> Stay updated and get support by following the developer on [Instagram](https://instagram.com/infrared.x).
 
 > [!NOTE]
 > #### Dear Examly/NeoCollab
@@ -31,6 +31,7 @@
 - **Removed entire screen capturing** (Now you can start the test even with window or tab screen recording permission)
 - **Allow tab/window**
 - **Allow copy/paste**
+- **Turn On/Off bypass** (You can disable the cheating mode using keyboard shotcuts)
 - **Spoof screen recording**
 - **Fullscreen bypass**
 - **Easy 2 use**
@@ -48,6 +49,8 @@ The 2nd and the last 2nd feature is what makes this extention stand out from oth
 3. Click on the *Load unpack* button and select the extracted extention folder. (Make sure to remove the orignal extention if previously intalled)
 4. The extention is now installed. Now you can do everything in your tests.
 
+⭐ To disable bypass, press Alt + D and to re-enable it, press Alt + R. The exam page will be reloaded on re-enabling the extension.
+Once the bypass is disabled, you will start getting warnings for switching tabs/window and all other activities that are not allowed
 
 
 ### Tutorial
