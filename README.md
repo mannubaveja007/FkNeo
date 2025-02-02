@@ -39,7 +39,6 @@
 
 <a href="https://github.com/ErrorxCode/FkNeo/releases/download/2.0/FkNeo-v2.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
-![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)
 
 
 ## ℹ️ How to install and use?
