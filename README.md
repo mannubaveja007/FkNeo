@@ -14,7 +14,6 @@
 
 
 
-
 > [!CAUTION]
 > This project is intended for educational purposes only. The author does not condone or support any form of cheating in exams and is not responsible for any misuse. This is purely a hobby project meant for experimentation and learning.
 
@@ -39,7 +38,7 @@
 
 <a href="https://github.com/ErrorxCode/FkNeo/releases/download/2.0/FkNeo-v2.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
-
+![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)
 
 ## ℹ️ How to install and use?
 1. Firstly download and extract the extention zip from latest release (or the above button)
