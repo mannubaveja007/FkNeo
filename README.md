@@ -18,7 +18,7 @@
 > [!CAUTION]
 > This project is intended for educational purposes only. The author does not condone or support any form of cheating in exams and is not responsible for any misuse. This is purely a hobby project meant for experimentation and learning.
 
-> Stay updated and get support by following the developer on [Instagram](https://instagram.com/infrared.x).
+> Stay updated and get support by following the developer on [Instagram](https://instagram.com/x0.rahil).
 
 > [!NOTE]
 > #### Dear Examly/NeoCollab
@@ -36,11 +36,10 @@
 - **Fullscreen bypass**
 - **Easy 2 use**
 
-The 2nd and the last 2nd feature is what makes this extention stand out from others. While other extention allows you to switch tab/window, this also allowes you to hide your activity while doing so
 
-<a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.2.4/FkNeo-v1.2.4.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+<a href="https://github.com/ErrorxCode/FkNeo/releases/download/2.0/FkNeo-v2.0.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
-[![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)]()
+![Github All Releases](https://custom-icon-badges.demolab.com/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)
 
 
 ## ℹ️ How to install and use?
@@ -57,7 +56,7 @@ Once the bypass is disabled, you will start getting warnings for switching tabs/
 https://github.com/user-attachments/assets/a6228c71-0f1f-4a20-8bb0-41f7b298fbd3
 
 > [!IMPORTANT]
-> For access key, contact [@ErrorxCode](https://t.me/ErrorxCode) on telegram or [@infrared.x](https://instagram.com/infrared.x) on instagram.
+> For license key, contact [@x03rror](https://t.me/x03rror?text=Hey,%20I%20want%20to%20dpurchase%20license%20key) on telegram
 > If you got to know about this from someone on whatsapp, you can ask him/her too.
 
 >[!NOTE]
